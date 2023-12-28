@@ -17,8 +17,8 @@ backend :<br />
 <br />
 4.Open browser to run webpage :<br />
 &nbsp;http://localhost:3000/todo<br />
-<br/>
-FYI<br/>
+<br />
+FYI<br />
 &nbsp;backend endpoint will run on http://localhost:5000/todo<br />
 &nbsp;frontend endpoint will run on http://localhost:3000/todo<br />
 &nbsp;database path : \todo-list-backend\database\db.json<br />
